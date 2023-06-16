@@ -6,6 +6,10 @@ npm install // npm i
 
 https://drive.google.com/drive/folders/1vxwNf_qo1MMYqcZk1pPFlbw_KZuDaxUO
 
+## Які дії підтримує додаток
+
+Нижче описані команди
+
 ### Отримати в терміналі весь список контактів
 
 node index.js --action="list" // node index --action list
