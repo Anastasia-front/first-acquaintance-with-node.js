@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1vxwNf_qo1MMYqcZk1pPFlbw_KZuDaxUO
 
 ### Дії, які підтримує додаток
 
-<br/>
+<hr/>
 
 Нижче описані команди👇🏻
 
